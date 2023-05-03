@@ -1,0 +1,1 @@
+Read Me... this is the coding project that I have been working on for sometime which includes html and css with implentations of javascript language. I used this to show my UX Developer skills in the field and Github deserves to see. (With the assistance of W3spaces to learn)
